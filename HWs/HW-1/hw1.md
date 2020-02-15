@@ -24,7 +24,7 @@ Using the dataset “[BodyTemperature.txt](./resources/BodyTemperature.txt)”:
 **Dataset Source**:  *Biostatistics with R: An Introduction to Statistics Through Biological Data, Babak Shahbaba*
 
 ## Q4
-Considering the definitions of **population variance** and **sample variance** are given below, why is the denominator of sample variance ***n-1*** instead of ***n***?
+Considering the definitions of **population variance** and **sample variance** are given below, why is the denominator of sample variance is ***n-1*** instead of ***n***?
 
 ![Definition-of-Population-Variance](./resources/population_variance_definition.png)
 ![Definition-of-Sample-Variance](./resources/sample_variance_definition.png) | 
