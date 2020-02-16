@@ -1,6 +1,6 @@
 # Introduction to Machine - Subject Headings
 ## Lecture 1
-> First lecture of the course. Mostly contains Statistics, Data Science, and Data Mining basics.
+> First lecture of the course. Mostly contains *Statistics*, *Data Science*, and *Data Mining* basics.
 
 **The Place of Machine Learning, Data Science, and Artificial Intelligence**
 - Different Parts in Data Science
@@ -22,6 +22,7 @@
 - Main differences between Supervised Learning and Unsupervised Learning
 
 **Data Types**
+- Data vs Meta-Data
 - Categorical (Qualitative) Data
 - Numerical (Quantitative) Data
 - **Source:** https://databasetown.com/statistics-for-data-science-descriptive-inferential-statistics/
@@ -52,6 +53,41 @@
 - Probability Distribution Function 
 - Normal (Gauss) Distribution
 
-## Lecture 2
-> Second lecture of the course. Mostly contains Data Science and classification basics.
+## Lecture 2 - Syllabus
+>Mostly contains Data Science and Classification basics.
 
+**Data resampling: train, test, validation. Also, logic behind sampling considering sample distributions.**
+
+**K-fold cross validation and other techniques**
+
+**Normalization: decimal scaling, min-max, std**
+
+**Validation of Classification: confusion matrix, precision, recall, F1-score**
+
+**What is overfit, Test-Training error chart in overfit**
+
+**Outlier Analysis**
+
+**Missing Value Reduction**
+
+**Classification Basic: K-NN, categorical vs. numeric class**
+
+## Lecture 3 - Syllabus
+> Mostly contains *Clustering*, *Tree-Based*, and *Regression* basics.
+
+**Clustering Basic: K-Means, visual**
+
+**Tree-Based Algorithms Basics: Decision tree, advantages, disadvantages**
+
+**Simple Linear Regression and Multinomial Linear Regression**
+
+**Data Mining Applications: Credit Card App, Success Prediction App**
+
+## Lecture 4 - Syllabus
+> Mostly contains *Advanced Tree-Based Algorithms*, *Logistic Regression*, and *Neural Networks*.
+
+**Logistic Regression**
+
+**Decision Tree Bootstrapping, Random Forest**
+
+**Introduction to Deep Learning: Perceptrons & Neural Networks**
