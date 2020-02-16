@@ -30,7 +30,7 @@ Considering the definitions of **population variance** and **sample variance** a
 ![Definition-of-Sample-Variance](./resources/sample_variance_definition.png) | 
 
 ## Q5
-What is ***Central Limit Theorem***? Explain and give an example.
+What is ***Central Limit Theorem***? Explain briefly and (if possible) give an example.
 
 ## Q6
-What is ***Feature Selection***? Explain and give an example.
+What is ***Feature Selection***? Explain briefly and (if possible) give an example.
