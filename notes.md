@@ -1,43 +1,44 @@
 # Introduction to Machine - Subject Headings
+> Subject headings of the course. You can synch with subjects and see the references/sources/materials used in this course. 
 ## Lecture 1
 > First lecture of the course. Mostly contains *Statistics*, *Data Science*, and *Data Mining* basics.
 
-**The Place of Machine Learning, Data Science, and Artificial Intelligence**
+**1. The Place of Machine Learning, Data Science, and Artificial Intelligence**
 - Different Parts in Data Science
 - The Fields of Data Science
 - **Source:** https://dimensionless.in/understanding-different-components-roles-in-data-science/
 
-**Data Science Fundamental Steps**
+**2. Data Science Fundamental Steps**
 - Data steps and a few details
 - **Source:** https://dimensionless.in/understanding-different-components-roles-in-data-science/
 
-**The Terms: "Learning" and "Machine Learning"**
+**3. The Terms: "Learning" and "Machine Learning"**
 - What is "Learning" and Why we call it "Learning"
 - What is Machine Learning
 - **Source:** https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap1-v1-0.pdf
 
-**Supervised vs Unsupervised Learning**
+**4. Supervised vs Unsupervised Learning**
 - What is "Supervised Learning"
 - What is "Unsupervised Learning"
 - Main differences between Supervised Learning and Unsupervised Learning
 
-**Data Types**
+**5. Data Types**
 - Data vs Meta-Data
 - Categorical (Qualitative) Data
 - Numerical (Quantitative) Data
 - **Source:** https://databasetown.com/statistics-for-data-science-descriptive-inferential-statistics/
 
-**Data Representation in Computer World**
+**6. Data Representation in Computer World**
 - Main Data Formats: Csv, arff, office formats
 - Other Data Formats: Database table, JSON, XML, image, sound, video, ...
 - Unstructured vs. Structured Data
 - **Source:** https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data/
 
-**Feature Terms & Data Table Exam**
+**7. Feature Terms & Data Table Exam**
 - Obese Dataset
 - Definition of input & output variables
 		
-**Descriptive Statistics**
+**8. Descriptive Statistics**
 - Population vs Sample
 - Descriptive Statistics vs Inferential Statistics
 - Definition of input & output variables
@@ -48,13 +49,13 @@
 - **Source #1:** https://databasetown.com/statistics-for-data-science-descriptive-inferential-statistics/
 - **Source #2:** https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf
 
-**Probability Basics**
+**9. Probability Basics**
 - Bayesian Statistics
 - Probability Distribution Function 
 - Normal (Gauss) Distribution
 
-## Lecture 2 - Syllabus
->Mostly contains Data Science and Classification basics.
+## Lecture 2
+>Mostly contains *Data Science* and *Classification* basics.
 
 **Data resampling: train, test, validation. Also, logic behind sampling considering sample distributions.**
 
@@ -72,7 +73,7 @@
 
 **Classification Basic: K-NN, categorical vs. numeric class**
 
-## Lecture 3 - Syllabus
+## Lecture 3
 > Mostly contains *Clustering*, *Tree-Based*, and *Regression* basics.
 
 **Clustering Basic: K-Means, visual**
@@ -83,7 +84,7 @@
 
 **Data Mining Applications: Credit Card App, Success Prediction App**
 
-## Lecture 4 - Syllabus
+## Lecture 4
 > Mostly contains *Advanced Tree-Based Algorithms*, *Logistic Regression*, and *Neural Networks*.
 
 **Logistic Regression**
