@@ -1,4 +1,4 @@
-# Introduction-to-ML-Lecture-2020
+# ML-101-Course
 **Introduction to Machine Learning Lecture** by *Berk Sudan* and *Mesut Şafak Bilici*.
 
 
