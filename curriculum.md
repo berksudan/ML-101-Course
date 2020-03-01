@@ -65,12 +65,12 @@
 - Leave one out Cross Validation (LOOC)
 - K-Fold Cross Validation
 - Stratified K-Fold Cross Validation
-- **Material:** [Cross Validation.pdf](./materials/Lecture-2/Cross Validation.pdf)
+- **Material:** [Cross Validation.pdf](./materials/Lecture-2/Cross-Validation.pdf)
 
 **3. Feature Scaling**
 - Normalization
 - Standardization
-- **Material:** [Feature Scaling.pdf](./materials/Lecture-2/Feature Scaling.pdf)
+- **Material:** [Feature Scaling.pdf](./materials/Lecture-2/Feature-Scaling.pdf)
 
 **4. Overfitting**
 - What is overfitting
@@ -80,14 +80,14 @@
 - Outlier examples
 - Univariate Outlier Detection
 - Multivariate Outlier Detection
-- **Material:** [Outlier Analysis.pdf](./materials/Lecture-2/Outlier Analysis.pdf)
+- **Material:** [Outlier Analysis.pdf](./materials/Lecture-2/Outlier-Analysis.pdf)
 
 **6. Missing Data Handling**
 - Missing at Randomness 
 - Simple Imputation Methods
 - Tree-based Imputation Methods
 - Model-based Imputation Methods
-- **Material:** [Missing Data Handling.pdf](./materials/Lecture-2/Missing Data Handling.pdf)
+- **Material:** [Missing Data Handling.pdf](./materials/Lecture-2/Missing-Data-Handling.pdf)
 
 **7. Classification Algorithms Basics**
 - K-NN Algorithm
@@ -105,7 +105,7 @@
 - K-Means Algorithm
 - Pros and Cons of K-Means
 - A Basic K-Means Example
-- **Material**: [Decision Trees.pdf](./materials/Lecture-3/Decision Trees.pdf)
+- **Material**: [Decision Trees.pdf](./materials/Lecture-3/Decision-Trees.pdf)
 
 **2. Tree-Based Algorithm Basics: Decision tree, advantages, disadvantages**
 - Decision Tree Definition
