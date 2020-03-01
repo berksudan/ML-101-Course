@@ -57,32 +57,66 @@
 ## Lecture 2
 >Mostly contains *Data Science* and *Classification* basics.
 
-**Data resampling: train, test, validation. Also, logic behind sampling considering sample distributions.**
+**1. Data Resampling**
+- Train, test, validation sets
+- How to split data?
 
-**K-fold cross validation and other techniques**
+**2. Cross Validation Methods**
+- Leave one out Cross Validation (LOOC)
+- K-Fold Cross Validation
+- Stratified K-Fold Cross Validation
+- **Material:** [Cross Validation.pdf](./materials/Lecture-2/Cross Validation.pdf)
 
-**Normalization: decimal scaling, min-max, std**
+**3. Feature Scaling**
+- Normalization
+- Standardization
+- **Material:** [Feature Scaling.pdf](./materials/Lecture-2/Feature Scaling.pdf)
 
-**Validation of Classification: confusion matrix, precision, recall, F1-score**
+**4. Overfitting**
+- What is overfitting
+- Overfitting examples
 
-**What is overfit, Test-Training error chart in overfit**
+**5. Outlier Analysis**
+- Outlier examples
+- Univariate Outlier Detection
+- Multivariate Outlier Detection
+- **Material:** [Outlier Analysis.pdf](./materials/Lecture-2/Outlier Analysis.pdf)
 
-**Outlier Analysis**
+**6. Missing Data Handling**
+- Missing at Randomness 
+- Simple Imputation Methods
+- Tree-based Imputation Methods
+- Model-based Imputation Methods
+- **Material:** [Missing Data Handling.pdf](./materials/Lecture-2/Missing Data Handling.pdf)
 
-**Missing Value Reduction**
+**7. Classification Algorithms Basics**
+- K-NN Algorithm
+- Coding K-NN in Python
 
-**Classification Basic: K-NN, categorical vs. numeric class**
+**8. Classification  Evaluation**
+- Confusion Matrix
+- Precision, recall
+- Accuracy vs F1-score
 
 ## Lecture 3
 > Mostly contains *Clustering*, *Tree-Based*, and *Regression* basics.
 
-**Clustering Basic: K-Means, visual**
+**1. Clustering Algorithms Basics**
+- K-Means Algorithm
+- Pros and Cons of K-Means
+- A Basic K-Means Example
+- **Material**: [Decision Trees.pdf](./materials/Lecture-3/Decision Trees.pdf)
 
-**Tree-Based Algorithms Basics: Decision tree, advantages, disadvantages**
+**2. Tree-Based Algorithm Basics: Decision tree, advantages, disadvantages**
+- Decision Tree Definition
+- Information Gain with Example
+- Gini Impurity Calculation
+- **Material:** [KMeans.pdf](./materials/Lecture-3/KMeans.pdf)
 
-**Simple Linear Regression and Multinomial Linear Regression**
-
-**Data Mining Applications: Credit Card App, Success Prediction App**
+**3. Regression Basics**
+- Simple Linear Regression
+- Multinomial Linear Regression
+- Gradient Descent Algorithm
 
 ## Lecture 4
 > Mostly contains *Advanced Tree-Based Algorithms*, *Logistic Regression*, and *Neural Networks*.
