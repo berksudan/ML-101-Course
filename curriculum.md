@@ -1,4 +1,4 @@
-# Introduction to Machine - Subject Headings
+# ML-101 Course - Curriculum
 > Subject headings of the course. You can synch with subjects and see the references/sources/materials used in this course. 
 ## Lecture 1
 > First lecture of the course. Mostly contains *Statistics*, *Data Science*, and *Data Mining* basics.
