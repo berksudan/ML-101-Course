@@ -105,13 +105,13 @@
 - K-Means Algorithm
 - Pros and Cons of K-Means
 - A Basic K-Means Example
-- **Material**: [Decision-Trees.pdf](./materials/Lecture-3/Decision-Trees.pdf)
+- **Material:** [KMeans.pdf](./materials/Lecture-3/KMeans.pdf)
 
 **2. Tree-Based Algorithm Basics: Decision tree, advantages, disadvantages**
 - Decision Tree Definition
 - Information Gain with Example
 - Gini Impurity Calculation
-- **Material:** [KMeans.pdf](./materials/Lecture-3/KMeans.pdf)
+- **Material**: [Decision-Trees.pdf](./materials/Lecture-3/Decision-Trees.pdf)
 
 **3. Regression Basics**
 - Simple Linear Regression
