@@ -1,4 +1,4 @@
-# Introduction to Machine - Subject Headings
+# ML-101 Course - Curriculum
 > Subject headings of the course. You can synch with subjects and see the references/sources/materials used in this course. 
 ## Lecture 1
 > First lecture of the course. Mostly contains *Statistics*, *Data Science*, and *Data Mining* basics.
@@ -105,13 +105,13 @@
 - K-Means Algorithm
 - Pros and Cons of K-Means
 - A Basic K-Means Example
-- **Material**: [Decision-Trees.pdf](./materials/Lecture-3/Decision-Trees.pdf)
+- **Material:** [KMeans.pdf](./materials/Lecture-3/KMeans.pdf)
 
 **2. Tree-Based Algorithm Basics: Decision tree, advantages, disadvantages**
 - Decision Tree Definition
 - Information Gain with Example
 - Gini Impurity Calculation
-- **Material:** [KMeans.pdf](./materials/Lecture-3/KMeans.pdf)
+- **Material**: [Decision-Trees.pdf](./materials/Lecture-3/Decision-Trees.pdf)
 
 **3. Regression Basics**
 - Simple Linear Regression
