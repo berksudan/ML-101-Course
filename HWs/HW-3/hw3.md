@@ -4,6 +4,7 @@
 
 There are 7 data points with 2 features (variables) shown below:
 ![Comparison-of-Two-Sets](./resources/kmeans_example.png)
+
  Please show the clusters at each iteration and find the clusters with respect to given parameters:
 
 * **Clustering Algorithm:** K-Means
