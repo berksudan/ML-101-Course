@@ -1,8 +1,12 @@
 # ML-101-Course
-**Introduction to Machine Learning Course** by *Berk Sudan* and *Mesut Şafak Bilici*.
+> **Introduction to Machine Learning Course** by *Berk Sudan* and *Mesut Şafak Bilici*.
 
-**Instructors:** [Berk Sudan](https://github.com/berksudan), [Mesut Şafak Bilici](https://github.com/safakkbilici)
+![course-meme](.course_meme.jpeg)
 
-**Curriculum & Subject Headings:** [Curriculum File](./curriculum.md)
+## Link
 
-**Materials:** [Materials Directory](./materials)
+***Instructors:*** [Berk Sudan](https://github.com/berksudan), [Mesut Şafak Bilici](https://github.com/safakkbilici)
+
+***Curriculum:*** [Curriculum File](./curriculum.md)
+
+***Materials:*** [Materials Directory](./materials)
