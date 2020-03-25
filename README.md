@@ -3,7 +3,7 @@
 
 ![course-meme](.course_meme.jpeg)
 
-## Link
+## Links
 
 ***Instructors:*** [Berk Sudan](https://github.com/berksudan), [Mesut Şafak Bilici](https://github.com/safakkbilici)
 
