@@ -121,8 +121,16 @@
 ## Lecture 4
 > Mostly contains *Advanced Tree-Based Algorithms*, *Logistic Regression*, and *Neural Networks*.
 
-**Logistic Regression**
+**1. Advanced Regression**
+- Logistic Regression
+- Sigmoid Function
 
-**Decision Tree Bootstrapping, Random Forest**
+**2. Advanced Trees**
+- Regression Trees
+- Boosting, Bootstrapping and Aggregation
+- Ensemble Learning Example: Random Forest
 
-**Introduction to Deep Learning: Perceptrons & Neural Networks**
+**3. Introduction to Deep Learning**
+- Perceptron Definition
+- Neural Networks, layers, weights, and bias
+- Forward & Back Propagation
