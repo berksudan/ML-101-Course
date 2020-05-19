@@ -5,8 +5,8 @@
 
 ## Links
 
-***Instructors:*** [Berk Sudan](https://github.com/berksudan), [Mesut Şafak Bilici](https://github.com/safakkbilici)
+***Instructors***: [Berk Sudan](https://github.com/berksudan), [Mesut Şafak Bilici](https://github.com/safakkbilici)
 
-***Curriculum:*** [Curriculum File](./curriculum.md)
+***Curriculum***: [Curriculum File](./curriculum.md)
 
-***Materials:*** [Materials Directory](./materials)
+***Materials***: [Materials Directory](./materials)
